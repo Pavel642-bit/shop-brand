@@ -85,6 +85,8 @@ img {
 }
 
 .cart-box__remove {
+    align-self: flex-start; /* Крестик на уровне h3 */
+  margin-top: 1.5em;
     margin-left: auto;
     flex-shrink: 0;
 }
